@@ -8,5 +8,5 @@ For details on the syllabus, schedule, and policies, refer to the official cours
 
 ## 📁 Repository Structure
 - `Labs/` – Weekly discussions
-- `PSETs/` – Homework problem sets
+- `PSets/` – Homework problem sets
 - `Project/` – Course project
