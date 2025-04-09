@@ -9,4 +9,4 @@ For details on the syllabus, schedule, and policies, refer to the official cours
 ## 📁 Repository Structure
 - `Labs/` – Weekly discussions
 - `PSets/` – Homework problem sets
-- `Project/` – Course project
+- `Challenge/` – Course project
